@@ -3,9 +3,8 @@
 This web application downloads your torrent-files or magnet links or torrent http links and uploads directly to your any rclone drive instantly.
 Here qBittorrent-nox (Linux) is used as web UI And Rclone is used as Uploader with the help of Docker.
 
-Special thanks to rclone and qbittorrent-nox
 
-![Demo](https://raw.githubusercontent.com/developeranaz/qbittorrent-to-rclone-heroku-beta/main/demo/Screenshot%202022-01-09%20180328.png)
+![Demo](https://i.ibb.co/VB91bX2/image.png)
 
 
 ## How To Deploy ?
