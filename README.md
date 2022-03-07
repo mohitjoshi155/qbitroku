@@ -12,7 +12,7 @@ Here qBittorrent-nox (Linux) is used as web UI And Rclone is used as Uploader wi
 * Star my repository
 * Create a [Heroku](https://dashboard.heroku.com/login) Free account
 * Log in to Heroku in any browser
-* Click on the Rapid deployment button [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://developeranaz.github.io/qbittorrent-to-rclone-heroku/random.html) and deploy app
+* Click on the Rapid deployment button [![Deploy]](https://developeranaz.github.io/qbittorrent-to-rclone-heroku/random.html) and deploy app
 * Go to deployed application in heroku
 * Switch to application settings.
 * Scroll down to see `config vars` > click `Reveal Config Vars`.
