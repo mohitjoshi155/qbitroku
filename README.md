@@ -35,18 +35,3 @@ Here qBittorrent-nox (Linux) is used as web UI And Rclone is used as Uploader wi
 
 #### iii) WEBPASSWORD
 * Type Your New Password in `WEBPASSWORD` section
-
-
- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://developeranaz.github.io/qbittorrent-to-rclone-heroku/random.html) 
-
-## Common Errors
-* If  `This page isn’t workingIf the problem continues, contact the site owner. HTTP ERROR 401` is shown in browser change your browser url from `https://myapp.herokuapp.com` to `http://myapp.herokuapp.com/` . ie., change https to http
-
-## SCREENSHOTS
-
-
-![demoo](https://raw.githubusercontent.com/developeranaz/qbittorrent-to-rclone-heroku-beta/main/demo/Screenshot%202022-01-09%20181831.png)
-![demoo](https://raw.githubusercontent.com/developeranaz/qbittorrent-to-rclone-heroku-beta/main/demo/image.png)
-
-
-
